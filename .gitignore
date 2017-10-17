@@ -46,3 +46,9 @@ Temporary Items
 .glide/
 
 
+#
+# Custom
+#
+
+vendor/*
+build/*

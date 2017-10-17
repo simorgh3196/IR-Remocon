@@ -1,0 +1,7 @@
+memo = ""
+
+[[projects]]
+  branch = "master"
+  name = "github.com/tarm/serial"
+  packages = ["."]
+  revision = "794054cb266296569307c08d1b475f44505dfab1"
